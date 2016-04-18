@@ -1,0 +1,39 @@
+/*
+Theme Name: Restaurante
+Author: Gustavo Téllez Díaz
+Description: Mi primera página wordpress.
+Version: 1.0
+*/
+
+body{
+    background-color: #030039;
+}
+
+.navbar{
+    margin-bottom: 0;
+}
+
+.dropdown-menu{
+    background-color: #222222;
+}
+
+h2{
+    color:white;
+}
+
+#letra{
+    color: #949494;
+}
+#letra:hover{
+    background-color: #222222;
+    color: white;
+}
+
+.btn{
+    background-color: #222222;
+}
+
+.thumbnail{
+    padding-top: 20px;
+    background-color: #290202;
+}
